@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-17T19:16:34.355Z" agent="5.0 (Windows)" etag="_T_Zi1PWHN8vWY2Z-_4u" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-17T19:29:23.418Z" agent="5.0 (Windows)" etag="Pns_uQ8SnTRIOZEwd1Bo" version="14.7.6" type="github">
   <diagram id="DUUOf399uBdJKGY2ofoX" name="Page-1">
-    <mxGraphModel dx="782" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="432" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#3399FF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -100,9 +100,6 @@
             <mxPoint x="430" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="M2hDqggpuAr9q3mNzkYl-35" value="high quality: feed to dairy cows" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="395" y="740" width="120" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="M2hDqggpuAr9q3mNzkYl-36" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="390" y="590" width="40" height="20" as="geometry" />
         </mxCell>
@@ -172,10 +169,10 @@
             <mxPoint x="680" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="M2hDqggpuAr9q3mNzkYl-63" value="" style="endArrow=classic;html=1;entryX=0.367;entryY=-0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="M2hDqggpuAr9q3mNzkYl-35">
+        <mxCell id="M2hDqggpuAr9q3mNzkYl-63" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="439" y="700" as="sourcePoint" />
-            <mxPoint x="510" y="760" as="targetPoint" />
+            <mxPoint x="317.48" y="905" as="sourcePoint" />
+            <mxPoint x="320" y="960" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="M2hDqggpuAr9q3mNzkYl-64" value="" style="endArrow=classic;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.392;entryY=-0.021;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="M2hDqggpuAr9q3mNzkYl-48" target="M2hDqggpuAr9q3mNzkYl-42">
@@ -190,7 +187,7 @@
             <mxPoint x="190" y="855" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="M2hDqggpuAr9q3mNzkYl-66" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="M2hDqggpuAr9q3mNzkYl-35" target="M2hDqggpuAr9q3mNzkYl-42">
+        <mxCell id="M2hDqggpuAr9q3mNzkYl-66" value="" style="endArrow=classic;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="M2hDqggpuAr9q3mNzkYl-46" target="M2hDqggpuAr9q3mNzkYl-42">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="380" y="751" as="sourcePoint" />
             <mxPoint x="370" y="790" as="targetPoint" />
@@ -198,6 +195,9 @@
               <mxPoint x="360" y="760" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="M2hDqggpuAr9q3mNzkYl-74" value="High quality feed: feed to dairy cows" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="960" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

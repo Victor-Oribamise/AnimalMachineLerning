@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-20T13:52:38.322Z" agent="5.0 (Windows)" etag="54AKzHPaOqweDg9kRBk0" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-20T14:10:44.362Z" agent="5.0 (Windows)" etag="tenJ_sYYBC__xxSdUnpF" version="14.8.0" type="github">
   <diagram id="DUUOf399uBdJKGY2ofoX" name="Page-1">
     <mxGraphModel dx="782" dy="420" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -76,9 +76,6 @@
             <mxPoint x="179" y="541" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="M2hDqggpuAr9q3mNzkYl-42" value="Compute CP, DM loss, leachate loss, CP content, ADF, NDF, DM content of feed over days and months" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="250" y="810" width="130" height="95" as="geometry" />
-        </mxCell>
         <mxCell id="M2hDqggpuAr9q3mNzkYl-46" value="Store in silo 1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="390" y="544" width="120" height="60" as="geometry" />
         </mxCell>
@@ -88,32 +85,17 @@
         <mxCell id="M2hDqggpuAr9q3mNzkYl-50" value="Store in grain bins" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="104" y="544" width="120" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="M2hDqggpuAr9q3mNzkYl-55" value="days = days +1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="M2hDqggpuAr9q3mNzkYl-55" value="days = days +1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="751" y="544" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="M2hDqggpuAr9q3mNzkYl-59" value="&lt;p&gt;&lt;span&gt;∆&lt;/span&gt;T = 6932L&lt;sub&gt;1&lt;/sub&gt; / (1.82/DM value -1)&lt;br&gt;&lt;/p&gt;&lt;sub&gt;&lt;/sub&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="M2hDqggpuAr9q3mNzkYl-59" value="&lt;p&gt;&lt;span&gt;∆&lt;/span&gt;T = 6932L&lt;sub&gt;1&lt;/sub&gt; / (1.82/DM value -1)&lt;br&gt;&lt;/p&gt;&lt;sub&gt;&lt;/sub&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="514" y="766" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="M2hDqggpuAr9q3mNzkYl-63" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="317.48" y="905" as="sourcePoint" />
-            <mxPoint x="320" y="960" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="M2hDqggpuAr9q3mNzkYl-64" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="186" y="608" as="sourcePoint" />
             <mxPoint x="512" y="793" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="M2hDqggpuAr9q3mNzkYl-65" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="M2hDqggpuAr9q3mNzkYl-42" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="102" y="787" as="sourcePoint" />
-            <mxPoint x="190" y="855" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="M2hDqggpuAr9q3mNzkYl-74" value="High quality feed: feed to dairy cows" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="260" y="960" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3f1Fwqvxpe8gPJKD74U5-2" value="User selection" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="986" y="51" width="123" height="30" as="geometry" />
@@ -204,6 +186,71 @@
             <mxPoint x="492" y="833" as="sourcePoint" />
             <mxPoint x="517" y="763" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="01IGUwASaf1nJK4tgAH9-19" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="522" y="822" as="sourcePoint" />
+            <mxPoint x="464" y="926" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="522" y="861" />
+              <mxPoint x="464" y="861" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="01IGUwASaf1nJK4tgAH9-20" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="01IGUwASaf1nJK4tgAH9-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="533" y="824" as="sourcePoint" />
+            <mxPoint x="547" y="927" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="01IGUwASaf1nJK4tgAH9-21" value="Output CP of feeds" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="434" y="925" width="63" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="01IGUwASaf1nJK4tgAH9-22" value="Output DM loss of feeds" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="504" y="925" width="57" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="01IGUwASaf1nJK4tgAH9-23" value="Output DM loss of feeds" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="569" y="925" width="57" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="01IGUwASaf1nJK4tgAH9-24" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="584" y="825" as="sourcePoint" />
+            <mxPoint x="584" y="923" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="01IGUwASaf1nJK4tgAH9-25" value="" style="endArrow=classic;html=1;exitX=0.825;exitY=1.017;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="M2hDqggpuAr9q3mNzkYl-59" target="01IGUwASaf1nJK4tgAH9-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="633" y="826" as="sourcePoint" />
+            <mxPoint x="642" y="913" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="633" y="865" />
+              <mxPoint x="604" y="873" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="01IGUwASaf1nJK4tgAH9-26" value="Output DM content of feeds/day" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="631" y="923" width="57" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="01IGUwASaf1nJK4tgAH9-28" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="625" y="823" as="sourcePoint" />
+            <mxPoint x="717" y="919" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="651" y="860.98" />
+              <mxPoint x="674" y="861" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="01IGUwASaf1nJK4tgAH9-29" value="Output ADF and NDF of feeds" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="692" y="923" width="57" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="01IGUwASaf1nJK4tgAH9-30" value="Output from module" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="988" y="265" width="125" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="01IGUwASaf1nJK4tgAH9-31" value="&lt;font style=&quot;font-size: 21px&quot; face=&quot;Comic Sans MS&quot; color=&quot;#3333FF&quot;&gt;RuFaS feed module&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="226" y="54.5" width="199" height="23" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

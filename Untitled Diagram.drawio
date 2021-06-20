@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-20T14:11:33.964Z" agent="5.0 (Windows)" etag="dUgut65HcsQvTN1mtKwV" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-20T14:16:27.339Z" agent="5.0 (Windows)" etag="RCMuEqupayPaWYk1vEWs" version="14.8.0" type="github">
   <diagram id="DUUOf399uBdJKGY2ofoX" name="Page-1">
-    <mxGraphModel dx="782" dy="420" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" background="none" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="420" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1400" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -98,16 +98,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3f1Fwqvxpe8gPJKD74U5-2" value="User selection" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="986" y="51" width="123" height="30" as="geometry" />
+          <mxGeometry x="923" y="47.5" width="123" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3f1Fwqvxpe8gPJKD74U5-4" value="Silages" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="390" y="280" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3f1Fwqvxpe8gPJKD74U5-6" value="Basic user input" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="987" y="96" width="122" height="37" as="geometry" />
+          <mxGeometry x="924" y="92" width="122" height="37" as="geometry" />
         </mxCell>
         <mxCell id="3f1Fwqvxpe8gPJKD74U5-7" value="Connects with the grazing module" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" parent="1" vertex="1">
-          <mxGeometry x="988" y="153" width="122" height="40" as="geometry" />
+          <mxGeometry x="924" y="141" width="122" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3f1Fwqvxpe8gPJKD74U5-8" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -116,7 +116,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3f1Fwqvxpe8gPJKD74U5-9" value="Automatic module function" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="987" y="213" width="123" height="43" as="geometry" />
+          <mxGeometry x="923" y="193" width="123" height="43" as="geometry" />
         </mxCell>
         <mxCell id="3f1Fwqvxpe8gPJKD74U5-12" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="401" y="509" width="30" height="18" as="geometry" />
@@ -247,7 +247,7 @@
           <mxGeometry x="692" y="923" width="57" height="60" as="geometry" />
         </mxCell>
         <mxCell id="01IGUwASaf1nJK4tgAH9-30" value="Output from module" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="988" y="265" width="125" height="60" as="geometry" />
+          <mxGeometry x="923" y="248" width="125" height="60" as="geometry" />
         </mxCell>
         <mxCell id="01IGUwASaf1nJK4tgAH9-31" value="&lt;font style=&quot;font-size: 21px&quot; face=&quot;Comic Sans MS&quot; color=&quot;#3333FF&quot;&gt;RuFaS feed module&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="226" y="54.5" width="199" height="23" as="geometry" />

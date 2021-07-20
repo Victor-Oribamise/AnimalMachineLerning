@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-20T18:33:26.242Z" agent="5.0 (Windows)" etag="mIXo2Az3F9yysULPoGHx" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-20T18:39:49.524Z" agent="5.0 (Windows)" etag="ZO6twLijkwJbIg2s66qp" version="14.8.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1778" dy="989" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -12,9 +12,6 @@
             <mxPoint x="826.38" y="89" as="sourcePoint" />
             <mxPoint x="826" y="145" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="8aOL3JUY5wuznuy4mqsb-9" value="is animal &amp;lt;= 4 months?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1053" y="69" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8aOL3JUY5wuznuy4mqsb-10" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="582" y="175" width="30" height="18" as="geometry" />
@@ -48,6 +45,27 @@
         </mxCell>
         <mxCell id="8aOL3JUY5wuznuy4mqsb-18" value="Pen 1" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="439" y="341" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8aOL3JUY5wuznuy4mqsb-19" value="&lt;div&gt;if age &amp;gt; 4 months&lt;/div&gt;&lt;div&gt;and &amp;lt;12 months&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1135" y="266" width="120" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="8aOL3JUY5wuznuy4mqsb-21" value="" style="endArrow=classic;html=1;shadow=0;dashed=1;strokeColor=#000000;strokeWidth=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8aOL3JUY5wuznuy4mqsb-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1195" y="377" as="sourcePoint" />
+            <mxPoint x="1092" y="502" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1107" y="437" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8aOL3JUY5wuznuy4mqsb-22" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;rotation=-35;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1131" y="385" width="30" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="8aOL3JUY5wuznuy4mqsb-24" value="Pen 2" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1035" y="505" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8aOL3JUY5wuznuy4mqsb-25" value="Heifer I" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1103.5" y="445" width="49" height="18" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

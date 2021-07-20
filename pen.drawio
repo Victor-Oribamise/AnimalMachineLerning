@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-20T18:54:58.976Z" agent="5.0 (Windows)" etag="vfIT7TdMtz03FtdYcuZi" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-20T19:01:32.475Z" agent="5.0 (Windows)" etag="EBMR_NnU5gtw8_9IqS4s" version="14.8.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1497" dy="833" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -221,6 +221,78 @@
             <mxPoint x="850" y="766" as="sourcePoint" />
             <mxPoint x="918.96" y="900.28" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="8aOL3JUY5wuznuy4mqsb-64" value="&lt;div&gt;if age == 24 months&lt;/div&gt;&lt;div&gt;and about to calve?&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1117" y="901" width="134" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="8aOL3JUY5wuznuy4mqsb-65" value="" style="endArrow=classic;html=1;shadow=0;dashed=1;strokeColor=#000000;strokeWidth=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1185" y="1006.9999999999998" as="sourcePoint" />
+            <mxPoint x="1089" y="1137" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1097" y="1072" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8aOL3JUY5wuznuy4mqsb-66" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;rotation=-45;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1117" y="1021" width="30" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="8aOL3JUY5wuznuy4mqsb-67" value="Pen 5" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1032" y="1139" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8aOL3JUY5wuznuy4mqsb-68" value="Dry Cows" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1097" y="1087" width="63" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="8aOL3JUY5wuznuy4mqsb-71" value="" style="endArrow=classic;startArrow=classic;html=1;shadow=0;dashed=1;strokeColor=#000000;strokeWidth=1;exitX=0.083;exitY=-0.058;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8aOL3JUY5wuznuy4mqsb-67">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="970" y="1100" as="sourcePoint" />
+            <mxPoint x="984" y="1008" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8aOL3JUY5wuznuy4mqsb-72" value="" style="endArrow=classic;html=1;shadow=0;dashed=1;strokeColor=#000000;strokeWidth=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1185.0000000000005" y="1006.9999999999998" as="sourcePoint" />
+            <mxPoint x="1299" y="1112" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1263" y="1055" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8aOL3JUY5wuznuy4mqsb-73" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;rotation=30;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1209" y="1007" width="26" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="8aOL3JUY5wuznuy4mqsb-74" value="If animal calved" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1232" y="1113" width="134" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="8aOL3JUY5wuznuy4mqsb-75" value="" style="endArrow=classic;html=1;shadow=0;dashed=1;strokeColor=#000000;strokeWidth=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1299" y="1220.9999999999998" as="sourcePoint" />
+            <mxPoint x="1203" y="1351" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1211" y="1286" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8aOL3JUY5wuznuy4mqsb-76" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;rotation=-45;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1228" y="1235" width="30" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="8aOL3JUY5wuznuy4mqsb-77" value="Pen 6" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1143" y="1353" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8aOL3JUY5wuznuy4mqsb-78" value="Lactating cows" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1209" y="1306" width="92" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="8aOL3JUY5wuznuy4mqsb-79" value="" style="endArrow=classic;html=1;shadow=0;dashed=1;strokeColor=#000000;strokeWidth=1;exitX=-0.035;exitY=0.53;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8aOL3JUY5wuznuy4mqsb-77">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1043" y="1418" as="sourcePoint" />
+            <mxPoint x="82" y="384" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="176" y="1129" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8aOL3JUY5wuznuy4mqsb-80" value="Take weaned calves to Pen 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;rotation=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="490" y="1217" width="169" height="18" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

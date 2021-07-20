@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-20T18:39:49.524Z" agent="5.0 (Windows)" etag="ZO6twLijkwJbIg2s66qp" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-20T18:50:16.140Z" agent="5.0 (Windows)" etag="n1iJJ81dU0by8VLlIP-7" version="14.8.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1778" dy="989" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -66,6 +66,98 @@
         </mxCell>
         <mxCell id="8aOL3JUY5wuznuy4mqsb-25" value="Heifer I" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1103.5" y="445" width="49" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="8aOL3JUY5wuznuy4mqsb-26" value="" style="endArrow=classic;html=1;shadow=0;dashed=1;strokeColor=#000000;strokeWidth=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8aOL3JUY5wuznuy4mqsb-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1305" y="524" as="sourcePoint" />
+            <mxPoint x="1328" y="486" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1273" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8aOL3JUY5wuznuy4mqsb-27" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;rotation=30;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1228" y="372" width="26" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="8aOL3JUY5wuznuy4mqsb-28" value="&lt;div&gt;if age &amp;gt; 12 months&lt;/div&gt;&lt;div&gt;and &amp;lt;19 months&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1263" y="487" width="134" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="8aOL3JUY5wuznuy4mqsb-29" value="" style="endArrow=classic;html=1;shadow=0;dashed=1;strokeColor=#000000;strokeWidth=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1331" y="592.9999999999998" as="sourcePoint" />
+            <mxPoint x="1228" y="722.9999999999998" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1243" y="658" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8aOL3JUY5wuznuy4mqsb-30" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;rotation=-35;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1263" y="613" width="30" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="8aOL3JUY5wuznuy4mqsb-31" value="Pen 3" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1166" y="724" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8aOL3JUY5wuznuy4mqsb-32" value="" style="endArrow=classic;html=1;shadow=0;dashed=1;strokeColor=#000000;strokeWidth=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=60;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8aOL3JUY5wuznuy4mqsb-18" target="8aOL3JUY5wuznuy4mqsb-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="578" y="417" as="sourcePoint" />
+            <mxPoint x="919" y="505" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8aOL3JUY5wuznuy4mqsb-38" value="move to Pen 2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=15;" vertex="1" connectable="0" parent="8aOL3JUY5wuznuy4mqsb-32">
+          <mxGeometry x="0.2182" y="-2" relative="1" as="geometry">
+            <mxPoint x="76" y="29" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8aOL3JUY5wuznuy4mqsb-33" value="Animals exceeds the 4 months age bracket?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;rotation=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="627" y="453" width="253" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="8aOL3JUY5wuznuy4mqsb-34" value="" style="endArrow=classic;html=1;shadow=0;dashed=1;strokeColor=#000000;strokeWidth=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1329" y="592.9999999999998" as="sourcePoint" />
+            <mxPoint x="1471" y="726" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1407" y="641" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8aOL3JUY5wuznuy4mqsb-35" value="Heifer II" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1239" y="673" width="52" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="8aOL3JUY5wuznuy4mqsb-36" value="&lt;div&gt;if age &amp;gt; 19 months&lt;/div&gt;&lt;div&gt;and &amp;lt;24 months&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1404" y="728" width="134" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="8aOL3JUY5wuznuy4mqsb-37" value="" style="endArrow=classic;html=1;shadow=0;dashed=1;strokeColor=#000000;strokeWidth=1;exitX=0.517;exitY=1.059;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8aOL3JUY5wuznuy4mqsb-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1052" y="696" as="sourcePoint" />
+            <mxPoint x="1166" y="724" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8aOL3JUY5wuznuy4mqsb-39" value="Animals exceeds12 months age?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;rotation=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="931" y="646" width="194" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="8aOL3JUY5wuznuy4mqsb-40" value="Move to Pen 3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1113" y="603" width="86" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="8aOL3JUY5wuznuy4mqsb-41" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;rotation=35;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1378" y="613" width="26" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="8aOL3JUY5wuznuy4mqsb-42" value="" style="endArrow=classic;html=1;shadow=0;dashed=1;strokeColor=#000000;strokeWidth=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1471" y="833.9999999999998" as="sourcePoint" />
+            <mxPoint x="1368" y="963.9999999999998" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1383" y="899" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8aOL3JUY5wuznuy4mqsb-43" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;rotation=-45;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1393" y="858" width="30" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="8aOL3JUY5wuznuy4mqsb-44" value="Pen 4" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1303" y="964" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8aOL3JUY5wuznuy4mqsb-45" value="Heifer III" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1380.5" y="915" width="55" height="18" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

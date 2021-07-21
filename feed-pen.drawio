@@ -1,1 +1,280 @@
-<mxfile host="app.diagrams.net" modified="2021-07-20T19:09:52.574Z" agent="5.0 (Windows)" version="14.8.0" etag="OvufgXEVRjh0KIdAlR1S" type="github"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">7VhZc9MwEP41Hp5gfBQnecRp0wKhU2ihw6NiK7aI7DWynINfzyqWYzsOOYD0yDQv0a43K2m/b4/YcPrx/FKQNPoEAeWGbQZzwzk3bNuybQe/lGZRaLq9bqEIBQu0UaW4Zb+oVppam7OAZg1DCcAlS5tKH5KE+rKhI0LArGk2Bt7cNSUhbSlufcLb2nsWyEjfwu5U+ivKwqjc2XJ7xZOYlMb6JllEApjVVM6F4fQFgCxW8bxPuQpeGZf794t7Ppy4lx8+Zz/JV+/j3fW314WzwSE/WV1B0ET+X9d24XpKeK7jpe8qF2UABeRJQJUT03C8SMYclxYuf1ApFxpwkktAFQgZQQgJ4UOAVNuNIZHazFIyTYJ3CliURxz8SaEaMM71Hihp+y5KmRQwWWGnHKyAUMacjCj3iD8JlwftAweBjxJIqHIVIBn0XarDXVRab8/YagwyyIVPt9jpbJFEhHSbP7ewU+er8VQjd0khplIs0EBQTiSbNslMdE6EK7sKd1xo6A+ggdOiwZDEqcp6oFnySuJqBmKyhRsKl1nEJL1NyTJAMywnTb7UeYBX9UJOskyjuAPkw0CaUiHpfGtYy6euzu2yuGlxVlUKq0z/qFYlzswjAXHWAuI7Fs+XlPyXlHT3TMmyY+3MSU2Wkhh7p6j2dAMskTUTGI8zPNg6dVYb/j2b3rbYdA0tMu3G41nT7ZHI1DmMS9aT55L7hxbhcgyDNxK4CtUq5XkYIlnQXWI4g3btiiAe5dnudtHAWDFoQGLGVbyuKJ9SyXyyoakQzkLc99xHuKnYTB7ckiUhSm4l3S3JivX3iM2m02w2K7nebcwN3aZ7rG7TaWF6g+gV0NkmX+J7Yh3fsddA6D12y+/uU6SfdQl+8I5fVtPdLd/as0xr9phvHPw0CPT0p4DeXjPlyxhwHIbZpzYIlCes8cnL+ag9CYxykSwHAcjlyySwbRKwNzWhB50EykJYA/ULTQlDMM3hKc4B6//8z5zHngPKStGEgKuY2maRYSeGwfos5ljHwwDF6k1tUQqr993OxW8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-21T14:30:25.359Z" agent="5.0 (Windows)" etag="kYnSCFerLlAn8pPfmUAW" version="14.8.0" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1422" dy="791" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Farm grown Feeds" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;rotation=-45;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="608" y="710" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CPGixMaSM9Dw-DmACXgE-0" value="Purchased feeds" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;rotation=-95;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="577" y="844" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CPGixMaSM9Dw-DmACXgE-5" value="User Input " style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="471" y="170" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CPGixMaSM9Dw-DmACXgE-8" value="" style="endArrow=classic;html=1;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="528.5" y="250" as="sourcePoint" />
+            <mxPoint x="529" y="311" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CPGixMaSM9Dw-DmACXgE-10" value="If Pen ID = 0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="461.5" y="315" width="135" height="137" as="geometry" />
+        </mxCell>
+        <mxCell id="CPGixMaSM9Dw-DmACXgE-11" value="" style="endArrow=classic;html=1;shadow=0;strokeWidth=1;dashed=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="461.5" y="383" as="sourcePoint" />
+            <mxPoint x="185.5" y="526" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="185.5" y="383" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CPGixMaSM9Dw-DmACXgE-12" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="263" y="362" width="30" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="CPGixMaSM9Dw-DmACXgE-13" value="Calf" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="146" y="428" width="32" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="CPGixMaSM9Dw-DmACXgE-14" value="Milk replacer" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="140" y="525" width="94" height="114" as="geometry" />
+        </mxCell>
+        <mxCell id="CPGixMaSM9Dw-DmACXgE-15" value="" style="endArrow=classic;html=1;shadow=0;dashed=1;strokeColor=#000000;strokeWidth=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="596.5" y="384" as="sourcePoint" />
+            <mxPoint x="907" y="486" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="906.5" y="378" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CPGixMaSM9Dw-DmACXgE-16" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="682" y="357" width="26" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="CPGixMaSM9Dw-DmACXgE-17" value="If Pen ID = 1" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="840" y="488" width="135" height="137" as="geometry" />
+        </mxCell>
+        <mxCell id="CPGixMaSM9Dw-DmACXgE-18" value="" style="endArrow=classic;html=1;shadow=0;dashed=1;strokeColor=#000000;strokeWidth=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="907" y="625" as="sourcePoint" />
+            <mxPoint x="804" y="754.9999999999998" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="819" y="690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CPGixMaSM9Dw-DmACXgE-19" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;rotation=-45;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="829" y="645" width="30" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="CPGixMaSM9Dw-DmACXgE-20" value="Heifer I Ration" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="757" y="756" width="94" height="114" as="geometry" />
+        </mxCell>
+        <mxCell id="CPGixMaSM9Dw-DmACXgE-21" value="" style="endArrow=classic;html=1;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="756" y="795" as="sourcePoint" />
+            <mxPoint x="674" y="743" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CPGixMaSM9Dw-DmACXgE-22" value="" style="endArrow=classic;html=1;dashed=1;exitX=0;exitY=0.386;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CPGixMaSM9Dw-DmACXgE-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="752" y="813" as="sourcePoint" />
+            <mxPoint x="659" y="863" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CPGixMaSM9Dw-DmACXgE-23" value="" style="endArrow=classic;html=1;shadow=0;dashed=1;strokeColor=#000000;strokeWidth=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="906" y="625" as="sourcePoint" />
+            <mxPoint x="1039" y="758" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="984" y="673" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CPGixMaSM9Dw-DmACXgE-24" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;rotation=30;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="957" y="641" width="26" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="CPGixMaSM9Dw-DmACXgE-25" value="If Pen ID = 2" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="972" y="759" width="135" height="137" as="geometry" />
+        </mxCell>
+        <mxCell id="CPGixMaSM9Dw-DmACXgE-27" value="Farm grown Feeds" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;rotation=-45;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="768" y="968" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CPGixMaSM9Dw-DmACXgE-28" value="Purchased feeds" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;rotation=-95;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="737" y="1102" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CPGixMaSM9Dw-DmACXgE-29" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;rotation=-45;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="989" y="903" width="30" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="CPGixMaSM9Dw-DmACXgE-30" value="Heifer II Ration" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="917" y="1014" width="94" height="114" as="geometry" />
+        </mxCell>
+        <mxCell id="CPGixMaSM9Dw-DmACXgE-31" value="" style="endArrow=classic;html=1;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="916" y="1053" as="sourcePoint" />
+            <mxPoint x="834" y="1001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CPGixMaSM9Dw-DmACXgE-32" value="" style="endArrow=classic;html=1;dashed=1;exitX=0;exitY=0.386;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CPGixMaSM9Dw-DmACXgE-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="912" y="1071" as="sourcePoint" />
+            <mxPoint x="819" y="1121" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CPGixMaSM9Dw-DmACXgE-33" value="" style="endArrow=classic;html=1;shadow=0;dashed=1;strokeColor=#000000;strokeWidth=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1039" y="896" as="sourcePoint" />
+            <mxPoint x="951" y="1026" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="951" y="961" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CPGixMaSM9Dw-DmACXgE-35" value="" style="endArrow=classic;html=1;shadow=0;dashed=1;strokeColor=#000000;strokeWidth=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1041" y="896" as="sourcePoint" />
+            <mxPoint x="1174" y="1029" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1119" y="944" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CPGixMaSM9Dw-DmACXgE-36" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;rotation=35;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1087" y="907" width="26" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="CPGixMaSM9Dw-DmACXgE-37" value="If Pen ID = 3" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1107" y="1031" width="135" height="137" as="geometry" />
+        </mxCell>
+        <mxCell id="CPGixMaSM9Dw-DmACXgE-38" value="Farm grown Feeds" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;rotation=-45;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="904" y="1240" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CPGixMaSM9Dw-DmACXgE-39" value="Purchased feeds" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;rotation=-95;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="873" y="1374" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CPGixMaSM9Dw-DmACXgE-40" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;rotation=-45;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1125" y="1175" width="30" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="CPGixMaSM9Dw-DmACXgE-41" value="Heifer III Ration" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1053" y="1286" width="94" height="114" as="geometry" />
+        </mxCell>
+        <mxCell id="CPGixMaSM9Dw-DmACXgE-42" value="" style="endArrow=classic;html=1;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1052" y="1325" as="sourcePoint" />
+            <mxPoint x="970" y="1273" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CPGixMaSM9Dw-DmACXgE-43" value="" style="endArrow=classic;html=1;dashed=1;exitX=0;exitY=0.386;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CPGixMaSM9Dw-DmACXgE-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1048" y="1343" as="sourcePoint" />
+            <mxPoint x="955" y="1393" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CPGixMaSM9Dw-DmACXgE-44" value="" style="endArrow=classic;html=1;shadow=0;dashed=1;strokeColor=#000000;strokeWidth=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1175" y="1168" as="sourcePoint" />
+            <mxPoint x="1087" y="1298" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1087" y="1233" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CPGixMaSM9Dw-DmACXgE-45" value="" style="endArrow=classic;html=1;shadow=0;dashed=1;strokeColor=#000000;strokeWidth=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1174" y="1168" as="sourcePoint" />
+            <mxPoint x="1307" y="1301" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1252" y="1216" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CPGixMaSM9Dw-DmACXgE-46" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;rotation=35;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1208" y="1178" width="26" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="CPGixMaSM9Dw-DmACXgE-47" value="If Pen ID = 4" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1240" y="1303" width="135" height="137" as="geometry" />
+        </mxCell>
+        <mxCell id="CPGixMaSM9Dw-DmACXgE-48" value="Farm grown Feeds" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;rotation=-45;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1037" y="1512" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CPGixMaSM9Dw-DmACXgE-49" value="Purchased feeds" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;rotation=-95;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1006" y="1646" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CPGixMaSM9Dw-DmACXgE-50" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;rotation=-45;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1258" y="1447" width="30" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="CPGixMaSM9Dw-DmACXgE-51" value="Heifer III &amp;amp; Dry cows Ration" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1182" y="1569" width="94" height="114" as="geometry" />
+        </mxCell>
+        <mxCell id="CPGixMaSM9Dw-DmACXgE-52" value="" style="endArrow=classic;html=1;dashed=1;exitX=0;exitY=0;exitDx=0;exitDy=36;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CPGixMaSM9Dw-DmACXgE-51">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1185" y="1597" as="sourcePoint" />
+            <mxPoint x="1103" y="1545" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CPGixMaSM9Dw-DmACXgE-53" value="" style="endArrow=classic;html=1;dashed=1;exitX=0;exitY=0.386;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CPGixMaSM9Dw-DmACXgE-51">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1181" y="1615" as="sourcePoint" />
+            <mxPoint x="1088" y="1665" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CPGixMaSM9Dw-DmACXgE-54" value="" style="endArrow=classic;html=1;shadow=0;dashed=1;strokeColor=#000000;strokeWidth=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1308" y="1440" as="sourcePoint" />
+            <mxPoint x="1220" y="1570" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1220" y="1505" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CPGixMaSM9Dw-DmACXgE-55" value="" style="endArrow=classic;html=1;shadow=0;dashed=1;strokeColor=#000000;strokeWidth=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1309" y="1442" as="sourcePoint" />
+            <mxPoint x="1442" y="1575" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1387" y="1490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CPGixMaSM9Dw-DmACXgE-56" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;rotation=35;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1346" y="1455" width="26" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="CPGixMaSM9Dw-DmACXgE-57" value="If Pen ID = 5" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1375" y="1575" width="135" height="137" as="geometry" />
+        </mxCell>
+        <mxCell id="CPGixMaSM9Dw-DmACXgE-58" value="Farm grown Feeds" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;rotation=-45;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1172" y="1784" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CPGixMaSM9Dw-DmACXgE-59" value="Purchased feeds" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;rotation=-95;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1141" y="1918" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CPGixMaSM9Dw-DmACXgE-60" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;rotation=-45;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1393" y="1719" width="30" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="CPGixMaSM9Dw-DmACXgE-61" value="Lactating cows Ration" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1317" y="1841" width="94" height="114" as="geometry" />
+        </mxCell>
+        <mxCell id="CPGixMaSM9Dw-DmACXgE-62" value="" style="endArrow=classic;html=1;dashed=1;exitX=0;exitY=0;exitDx=0;exitDy=36;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CPGixMaSM9Dw-DmACXgE-61">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1320" y="1869" as="sourcePoint" />
+            <mxPoint x="1238" y="1817" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CPGixMaSM9Dw-DmACXgE-63" value="" style="endArrow=classic;html=1;dashed=1;exitX=0;exitY=0.386;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CPGixMaSM9Dw-DmACXgE-61">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1316" y="1887" as="sourcePoint" />
+            <mxPoint x="1223" y="1937" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CPGixMaSM9Dw-DmACXgE-64" value="" style="endArrow=classic;html=1;shadow=0;dashed=1;strokeColor=#000000;strokeWidth=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1443" y="1712" as="sourcePoint" />
+            <mxPoint x="1355" y="1842" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1355" y="1777" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

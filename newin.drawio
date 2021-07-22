@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-22T14:55:18.204Z" agent="5.0 (Windows)" etag="ljXfZWi3Z7r6_jS0oKeN" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-22T15:17:16.986Z" agent="5.0 (Windows)" etag="SUKJKlA3PiU0HB0-DCo2" version="14.8.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="791" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -37,7 +37,7 @@
         <mxCell id="f6fIOls7Kiw5WpBTuDC4-7" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="517" y="253" width="26" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="f6fIOls7Kiw5WpBTuDC4-8" value="If Pen X houses heifer X" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="f6fIOls7Kiw5WpBTuDC4-8" value="If Pen X houses heifer I" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="449" y="320" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="f6fIOls7Kiw5WpBTuDC4-9" value="" style="endArrow=classic;html=1;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -49,76 +49,19 @@
         <mxCell id="f6fIOls7Kiw5WpBTuDC4-10" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="609" y="338" width="30" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="f6fIOls7Kiw5WpBTuDC4-11" value="Feed heifer X" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="f6fIOls7Kiw5WpBTuDC4-11" value="Feed heifer I" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1117" y="322" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="f6fIOls7Kiw5WpBTuDC4-12" value="Allocate heifer X feed" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="f6fIOls7Kiw5WpBTuDC4-12" value="Allocate heifer I feed" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="673" y="332" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="f6fIOls7Kiw5WpBTuDC4-13" value="" style="endArrow=classic;html=1;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="728.5" y="572" as="sourcePoint" />
-            <mxPoint x="728.5" y="623" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="f6fIOls7Kiw5WpBTuDC4-14" value="formulate heifer X feed" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="f6fIOls7Kiw5WpBTuDC4-14" value="formulate heifer I feed" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="895" y="334" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f6fIOls7Kiw5WpBTuDC4-15" value="" style="endArrow=classic;html=1;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1015" y="363.5" as="sourcePoint" />
             <mxPoint x="1116" y="363.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="f6fIOls7Kiw5WpBTuDC4-18" value="" style="endArrow=classic;html=1;dashed=1;entryX=0.45;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="f6fIOls7Kiw5WpBTuDC4-14">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="788" y="557" as="sourcePoint" />
-            <mxPoint x="950" y="402" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="945" y="557" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="f6fIOls7Kiw5WpBTuDC4-19" value="" style="endArrow=classic;html=1;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="f6fIOls7Kiw5WpBTuDC4-24">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="739" y="563" as="sourcePoint" />
-            <mxPoint x="729" y="537" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="f6fIOls7Kiw5WpBTuDC4-24" value="Farm grown Feeds" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;rotation=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="679" y="444" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="f6fIOls7Kiw5WpBTuDC4-25" value="supplement with purchased feeds" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;rotation=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="669" y="625" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="f6fIOls7Kiw5WpBTuDC4-27" value="" style="endArrow=classic;html=1;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="728" y="392" as="sourcePoint" />
-            <mxPoint x="728" y="444" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="f6fIOls7Kiw5WpBTuDC4-28" value="Feed sufficient?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="676" y="539" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="f6fIOls7Kiw5WpBTuDC4-29" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="846" y="535" width="30" height="18" as="geometry" />
-        </mxCell>
-        <mxCell id="f6fIOls7Kiw5WpBTuDC4-30" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="729" y="576" width="26" height="18" as="geometry" />
-        </mxCell>
-        <mxCell id="f6fIOls7Kiw5WpBTuDC4-31" value="" style="endArrow=classic;html=1;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="791" y="651.02" as="sourcePoint" />
-            <mxPoint x="982" y="397" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="982" y="651" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="f6fIOls7Kiw5WpBTuDC4-32" value="" style="endArrow=classic;html=1;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="f6fIOls7Kiw5WpBTuDC4-11">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1409" y="543" as="sourcePoint" />
-            <mxPoint x="1262" y="362" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="f6fIOls7Kiw5WpBTuDC4-33" value="" style="endArrow=classic;html=1;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -128,7 +71,253 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="f6fIOls7Kiw5WpBTuDC4-34" value="Internal computation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1262" y="334" width="120" height="60" as="geometry" />
+          <mxGeometry x="1728" y="664" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f6fIOls7Kiw5WpBTuDC4-36" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="517" y="417" width="26" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="f6fIOls7Kiw5WpBTuDC4-37" value="If Pen X houses heifer II" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="449" y="484" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="f6fIOls7Kiw5WpBTuDC4-38" value="" style="endArrow=classic;html=1;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="571" y="524" as="sourcePoint" />
+            <mxPoint x="672" y="524" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f6fIOls7Kiw5WpBTuDC4-39" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="609" y="502" width="30" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="f6fIOls7Kiw5WpBTuDC4-40" value="Feed heifer II" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1117" y="486" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="f6fIOls7Kiw5WpBTuDC4-41" value="Allocate heifer II feed" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="673" y="496" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f6fIOls7Kiw5WpBTuDC4-42" value="formulate heifer II feed" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="895" y="498" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f6fIOls7Kiw5WpBTuDC4-43" value="" style="endArrow=classic;html=1;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1015" y="527.5" as="sourcePoint" />
+            <mxPoint x="1116" y="527.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f6fIOls7Kiw5WpBTuDC4-44" value="" style="endArrow=classic;html=1;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="794" y="528" as="sourcePoint" />
+            <mxPoint x="894" y="528" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f6fIOls7Kiw5WpBTuDC4-45" value="" style="endArrow=classic;html=1;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="508.5" y="402" as="sourcePoint" />
+            <mxPoint x="508.5" y="484" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f6fIOls7Kiw5WpBTuDC4-46" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="515" y="581" width="26" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="f6fIOls7Kiw5WpBTuDC4-47" value="If Pen X houses heifer III" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="447" y="648" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="f6fIOls7Kiw5WpBTuDC4-48" value="" style="endArrow=classic;html=1;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="569" y="688" as="sourcePoint" />
+            <mxPoint x="670" y="688" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f6fIOls7Kiw5WpBTuDC4-49" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="607" y="666" width="30" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="f6fIOls7Kiw5WpBTuDC4-50" value="Feed heifer III" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1115" y="650" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="f6fIOls7Kiw5WpBTuDC4-51" value="Allocate heifer III feed" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="671" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f6fIOls7Kiw5WpBTuDC4-52" value="formulate heifer III feed" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="893" y="662" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f6fIOls7Kiw5WpBTuDC4-53" value="" style="endArrow=classic;html=1;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1013" y="691.5" as="sourcePoint" />
+            <mxPoint x="1114" y="691.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f6fIOls7Kiw5WpBTuDC4-54" value="" style="endArrow=classic;html=1;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="792" y="692" as="sourcePoint" />
+            <mxPoint x="892" y="692" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f6fIOls7Kiw5WpBTuDC4-55" value="" style="endArrow=classic;html=1;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="506.5" y="566" as="sourcePoint" />
+            <mxPoint x="506.5" y="648" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f6fIOls7Kiw5WpBTuDC4-56" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="511" y="743" width="26" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="f6fIOls7Kiw5WpBTuDC4-57" value="If Pen X houses heifer III and dry cows" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="410" y="810" width="153" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="f6fIOls7Kiw5WpBTuDC4-58" value="" style="endArrow=classic;html=1;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="565" y="850" as="sourcePoint" />
+            <mxPoint x="666" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f6fIOls7Kiw5WpBTuDC4-59" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="603" y="828" width="30" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="f6fIOls7Kiw5WpBTuDC4-60" value="Feed heifer III and dry cows" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1111" y="812" width="60" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="f6fIOls7Kiw5WpBTuDC4-61" value="Allocate heifer III and dry cows feed" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="667" y="822" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f6fIOls7Kiw5WpBTuDC4-62" value="formulate heifer III and dry cows feed" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="889" y="824" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f6fIOls7Kiw5WpBTuDC4-63" value="" style="endArrow=classic;html=1;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1009" y="853.5" as="sourcePoint" />
+            <mxPoint x="1110" y="853.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f6fIOls7Kiw5WpBTuDC4-64" value="" style="endArrow=classic;html=1;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="788" y="854" as="sourcePoint" />
+            <mxPoint x="888" y="854" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f6fIOls7Kiw5WpBTuDC4-65" value="" style="endArrow=classic;html=1;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="502.5" y="728" as="sourcePoint" />
+            <mxPoint x="502.5" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f6fIOls7Kiw5WpBTuDC4-66" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="503" y="905" width="26" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="f6fIOls7Kiw5WpBTuDC4-67" value="If Pen X houses lactating cows" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="435" y="972" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="f6fIOls7Kiw5WpBTuDC4-68" value="" style="endArrow=classic;html=1;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="557" y="1012" as="sourcePoint" />
+            <mxPoint x="658" y="1012" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f6fIOls7Kiw5WpBTuDC4-69" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="595" y="990" width="30" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="f6fIOls7Kiw5WpBTuDC4-70" value="Feed lactating cows" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1103" y="974" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="f6fIOls7Kiw5WpBTuDC4-71" value="Allocate lactating cows feed" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="659" y="984" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f6fIOls7Kiw5WpBTuDC4-72" value="formulate lactating cows feed" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="881" y="986" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f6fIOls7Kiw5WpBTuDC4-73" value="" style="endArrow=classic;html=1;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1001" y="1015.5" as="sourcePoint" />
+            <mxPoint x="1102" y="1015.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f6fIOls7Kiw5WpBTuDC4-74" value="" style="endArrow=classic;html=1;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="780" y="1016" as="sourcePoint" />
+            <mxPoint x="880" y="1016" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f6fIOls7Kiw5WpBTuDC4-75" value="" style="endArrow=classic;html=1;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="494.5" y="890" as="sourcePoint" />
+            <mxPoint x="494.5" y="972" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f6fIOls7Kiw5WpBTuDC4-76" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="f6fIOls7Kiw5WpBTuDC4-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1177" y="365.5" as="sourcePoint" />
+            <mxPoint x="1546" y="551" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1546" y="371" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f6fIOls7Kiw5WpBTuDC4-78" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="f6fIOls7Kiw5WpBTuDC4-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1316" y="691" as="sourcePoint" />
+            <mxPoint x="1547" y="658" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1547" y="541" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f6fIOls7Kiw5WpBTuDC4-79" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1177" y="691" as="sourcePoint" />
+            <mxPoint x="1546" y="657" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1546" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f6fIOls7Kiw5WpBTuDC4-80" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1177" y="852" as="sourcePoint" />
+            <mxPoint x="1546" y="692" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1546" y="861" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f6fIOls7Kiw5WpBTuDC4-81" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1168" y="1010" as="sourcePoint" />
+            <mxPoint x="1543" y="852" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1543" y="1019" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f6fIOls7Kiw5WpBTuDC4-82" value="" style="endArrow=classic;html=1;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1546" y="696" as="sourcePoint" />
+            <mxPoint x="1728" y="696" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f6fIOls7Kiw5WpBTuDC4-83" value="" style="endArrow=classic;html=1;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="f6fIOls7Kiw5WpBTuDC4-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1846" y="668" as="sourcePoint" />
+            <mxPoint x="1926" y="694" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f6fIOls7Kiw5WpBTuDC4-84" value="Output" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1928" y="634" width="192" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="f6fIOls7Kiw5WpBTuDC4-85" value="Available feeds (kg)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="f6fIOls7Kiw5WpBTuDC4-84">
+          <mxGeometry y="26" width="192" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="f6fIOls7Kiw5WpBTuDC4-86" value="Count of animals per pen" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="f6fIOls7Kiw5WpBTuDC4-84">
+          <mxGeometry y="52" width="192" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="f6fIOls7Kiw5WpBTuDC4-87" value="Info about animals in each pen" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="f6fIOls7Kiw5WpBTuDC4-84">
+          <mxGeometry y="78" width="192" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="f6fIOls7Kiw5WpBTuDC4-88" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="739" y="203" as="sourcePoint" />
+            <mxPoint x="1547" y="373" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1547" y="203" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

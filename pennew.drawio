@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-05T16:09:39.510Z" agent="5.0 (Windows)" etag="tkrpnKbiugSSXN_Ewhr6" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-05T16:15:48.980Z" agent="5.0 (Windows)" etag="-drv9j3XMr_Sjw43aVt2" version="14.8.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="791" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -501,6 +501,54 @@
               <mxPoint x="1511" y="2796" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="un4VEEMgw5aZnZ7E-Z5A-111" value="&lt;div&gt;count of animals per pen&lt;/div&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;glass=0;rotation=-90;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1910" y="1511" width="167" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="un4VEEMgw5aZnZ7E-Z5A-113" value="Available feeds (kg) per pen" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;glass=0;rotation=-90;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1901" y="1698" width="193" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="un4VEEMgw5aZnZ7E-Z5A-114" value="Info of animal classes per pen" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;glass=0;rotation=-90;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1897" y="1943" width="193" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="un4VEEMgw5aZnZ7E-Z5A-115" value="" style="endArrow=classic;html=1;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1522" y="1788" as="sourcePoint" />
+            <mxPoint x="1626" y="1788" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="un4VEEMgw5aZnZ7E-Z5A-116" value="internal computation" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;rotation=-90;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1613" y="1748" width="104" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="un4VEEMgw5aZnZ7E-Z5A-117" value="" style="endArrow=classic;html=1;dashed=1;exitX=0.433;exitY=0.975;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="un4VEEMgw5aZnZ7E-Z5A-116">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1840" y="1949" as="sourcePoint" />
+            <mxPoint x="1960" y="1961" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1698" y="1961" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="un4VEEMgw5aZnZ7E-Z5A-118" value="" style="endArrow=classic;html=1;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="un4VEEMgw5aZnZ7E-Z5A-116">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1917" y="1776" as="sourcePoint" />
+            <mxPoint x="1961" y="1734" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1799" y="1818" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="un4VEEMgw5aZnZ7E-Z5A-119" value="" style="endArrow=classic;html=1;dashed=1;exitX=0.567;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="un4VEEMgw5aZnZ7E-Z5A-116">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1879" y="1542" as="sourcePoint" />
+            <mxPoint x="1954" y="1550" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1710" y="1581" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="un4VEEMgw5aZnZ7E-Z5A-120" value="output" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;glass=0;rotation=0;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1673" y="637" width="167" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
